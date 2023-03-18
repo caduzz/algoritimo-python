@@ -1,0 +1,16 @@
+{
+    "alunos": [
+        {
+            "nome": "cadu",
+            "notas": {
+                "nota_1": 9,
+                "nota_2": 10,
+                "nota_3": 10,
+                "nota_4": 8
+            },
+            "soma": 37,
+            "media": 9.25,
+            "aprovado": true
+        }
+    ]
+}
